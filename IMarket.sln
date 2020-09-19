@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMarket.Model", "IMarket.Model\IMarket.Model.csproj", "{01084EBA-70C2-46A7-A447-22406E2888C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMarket.TestConsoleApp", "IMarket.TestConsoleApp\IMarket.TestConsoleApp.csproj", "{2C861E0C-317A-46BE-9F66-C1054B67EA01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01084EBA-70C2-46A7-A447-22406E2888C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01084EBA-70C2-46A7-A447-22406E2888C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01084EBA-70C2-46A7-A447-22406E2888C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01084EBA-70C2-46A7-A447-22406E2888C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C861E0C-317A-46BE-9F66-C1054B67EA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C861E0C-317A-46BE-9F66-C1054B67EA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C861E0C-317A-46BE-9F66-C1054B67EA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C861E0C-317A-46BE-9F66-C1054B67EA01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F140F54C-369D-4048-9EE3-A0DD48FFD7C2}
+	EndGlobalSection
+EndGlobal
