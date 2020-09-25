@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMarket.Model", "IMarket.Model\IMarket.Model.csproj", "{01084EBA-70C2-46A7-A447-22406E2888C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IMarket.Model", "IMarket.Model\IMarket.Model.csproj", "{01084EBA-70C2-46A7-A447-22406E2888C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMarket.TestConsoleApp", "IMarket.TestConsoleApp\IMarket.TestConsoleApp.csproj", "{2C861E0C-317A-46BE-9F66-C1054B67EA01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IMarket.TestConsoleApp", "IMarket.TestConsoleApp\IMarket.TestConsoleApp.csproj", "{2C861E0C-317A-46BE-9F66-C1054B67EA01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMarket.Model.ModelFirst", "IMarket.Model.ModelFirst\IMarket.Model.ModelFirst.csproj", "{6E9C38E6-516F-4399-BAE2-378B7026E7A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMarket.BusnessLayer", "IMarket.BusnessLayer\IMarket.BusnessLayer.csproj", "{41B18324-37A0-4DC7-8825-41F0B38714D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{2C861E0C-317A-46BE-9F66-C1054B67EA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C861E0C-317A-46BE-9F66-C1054B67EA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C861E0C-317A-46BE-9F66-C1054B67EA01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E9C38E6-516F-4399-BAE2-378B7026E7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9C38E6-516F-4399-BAE2-378B7026E7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9C38E6-516F-4399-BAE2-378B7026E7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9C38E6-516F-4399-BAE2-378B7026E7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41B18324-37A0-4DC7-8825-41F0B38714D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41B18324-37A0-4DC7-8825-41F0B38714D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41B18324-37A0-4DC7-8825-41F0B38714D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41B18324-37A0-4DC7-8825-41F0B38714D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

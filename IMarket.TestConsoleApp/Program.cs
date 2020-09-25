@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using IMarket.Model;
+using IMarket.Model.ModelFirst;
 
 namespace IMarket.TestConsoleApp
 {
